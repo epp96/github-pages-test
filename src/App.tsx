@@ -10,6 +10,7 @@ function App() {
         <p>
           This is to test github pages with react <code>gh-pages</code>
         </p>
+        <p>this was changed in the <code>"gh-pages"</code> branch</p>
       </header>
     </div>
   );
