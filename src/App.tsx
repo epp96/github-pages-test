@@ -7,10 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          This is to test github pages with react <code>gh-pages</code>
-        </p>
-        <p>this was changed in the <code>"gh-pages"</code> branch</p>
+        <p>hello kat this is Enrique</p>
       </header>
     </div>
   );
